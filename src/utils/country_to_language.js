@@ -45,6 +45,6 @@ const countryToLanguage = {
     YE: 'ar',
     OM: 'ar',
     GE: 'ka',
-    
+    };
 export default countryToLanguage;
     
