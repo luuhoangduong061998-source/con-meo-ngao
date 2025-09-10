@@ -38,7 +38,13 @@ const countryToLanguage = {
     TR: 'tr',
     TW: 'zh',
     US: 'en',
-    VN: 'vi',
+    VN: 'vi',                                                        
     IQ: 'ar',
+    LB: 'ar',
+    KW: 'ar',
+    YE: 'ar',
+    OM: 'ar',
+    GE: 'ka',
+    
 export default countryToLanguage;
     
